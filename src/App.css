@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+/* Importe algunos fonts de fonts.google.com para el logo de la empresa ficticia
+En este caso utilize Bootstrap (aunque tambien me siento mas comodo con tailwindcss)
+Ademas de Bootstrap utilize CSS3 porque tenia algunas cosas que personalizar
+y a veces no podia configurar algunas cosas con Bootstrap */
+
+/* Para el Navbar component */
+.navbar-nav a{
+    font-size: 18px;
+}
+
+#logo {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2em;
+}
+
+/* Para el hero de Home.jsx (pendiente si el hero-text sera #FFFFFF o #C50202*/
+#hero-text {
+    font-family: 'Oswald';
+    color: #fff;
+}
+
+#hero-image {
+    background-position: center;
+    object-fit: cover;
+}
+
+/* Para el About component */
+#about-title {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 10em;
+}
+
+#about-image {
+    background-position: center;
+    object-fit: cover;
+}
+
+/* Para el Footer component */
+#footer-logo {
+    font-family: 'Shadows Into Light', cursive;
+}
