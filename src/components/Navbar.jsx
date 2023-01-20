@@ -1,6 +1,6 @@
-import React from 'react'
-import { NavLink } from 'react-router-dom'
-
+import React from 'react';
+import { NavLink } from 'react-router-dom';
+import "bootstrap/dist/css/bootstrap.css";
 
 /* Este Navbar tiene el logo de la empresa ficticia y ademas una lista para ir a otros sitios
 Los otros sitios donde lleva la lista es al Inicio, Productos, Info y Contacto
