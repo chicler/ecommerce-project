@@ -7,7 +7,7 @@ import 'bootstrap/dist/js/bootstrap.bundle';
 Los otros sitios donde lleva la lista es al Inicio, Productos, Info y Contacto
 Ademas tiene algunos botones que tienen iconos por Font Awesome
 El Navbar y todo lo que contiene fue estilizado con Bootstrap */
-//El Navbar collapse de moviles no sirve :c
+//El Navbar collapse de moviles YA sirve :D
 export const Navbar = () => {
     return (
         <div>
