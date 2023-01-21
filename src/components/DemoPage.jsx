@@ -23,7 +23,7 @@ export const DemoPage = () => {
                     <NavLink to='/'>Regresar a Inicio</NavLink>
                 </div>
                 <div>
-                    <img src='assets/404angry.gif' alt='Error 404' width='20em' />
+                    <img src='assets/404angry.gif' alt='Error 404' width='220em' />
                 </div>
             </div>
         </div>
