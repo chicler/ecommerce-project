@@ -8,10 +8,10 @@ Utilize el NavLink para llevar a determinados sitios como a /contact */
 export const About = () => {
     return (
         <div className='display-flex'>
-            <div className="card text-bg-dark">
-                <img id='about-image' src="/assets/about.jpg" className="card-img bg-dark" alt="about-background" height='550px' />
+            <div className="card text-bg-dark ">
+                <img id='about-image' src="/assets/about.jpg" className="card-img bg-dark" alt="about-background" height='550em' />
                 <div id='about-card' className="bg-dark-tertiary card-img-overlay text-center position-absolute top-50 start-50 translate-middle">
-                    <h1 id='about-title' className="card-title">DA SHOP</h1>
+                    <h1 id='about-title' className="card-title display-2">DA SHOP</h1>
                     <p className="card-text display-4">Quienes somos?</p>
                 </div>
             </div>
