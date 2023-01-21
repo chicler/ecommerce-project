@@ -43,3 +43,4 @@ Este proyecto tiene el propósito de simular una tienda virtual de ropa, joyerí
 
 ### Estado del proyecto:
 Lamentablemente no se ha podido cumplir con todos los requisitos y demas cosas que queria agregar, pero despues de la evaluacion seguire trabajando en este proyecto, reparar algunos bugs y ponerle mas funcionalidades que la hagan mas intuitiva.
+Aunque acutalmente estoy trabajando en hacer esta web mas responsive para que pueda ser usado en todos los dispositivos.
