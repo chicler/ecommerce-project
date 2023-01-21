@@ -55,7 +55,7 @@ export const Product = () => {
             <>
                 
                     <div className='col-md-6'>
-                        <img src={product.image} alt={product.title} height='500px' width='400px' />
+                        <img src={product.image} alt={product.title} height='450em' width='350em' />
                     </div>
                     <div className='col-md-6'>
                         <h4 className='text-uppercase text-black-50'>{product.category}</h4>
