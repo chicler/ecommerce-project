@@ -69,7 +69,7 @@ export const Products = () => {
   const ShowProducts = () => {
     return (
       <>
-        <div className='buttons d-flex justify-content-center mb-5 pb-5 col-xs-1 col-sm-1'>
+        <div className='buttons d-flex justify-content-center mb-5 pb-5'>
           <button className='btn btn-outline-dark me-2' onClick={() => setFilter(data)}>Todo</button>
           <button className='btn btn-outline-dark me-2' onClick={() => filterProduct("women's clothing")}>Damas</button>
           <button className='btn btn-outline-dark me-2' onClick={() => filterProduct("men's clothing")}>Caballeros</button>
